@@ -19,6 +19,4 @@ Therefore, my app will be a multi-use tool that will not only help users communi
 4. Back Button-takes you back to the main page
 
 Project Code
-
-
-
+https://cleveredailabs.s3.ap-south-1.amazonaws.com/Hassan

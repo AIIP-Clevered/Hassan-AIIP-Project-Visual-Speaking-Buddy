@@ -13,10 +13,10 @@ Additionally, there is Dani. When a user feels stressed, upset or requires compa
 Therefore, my app will be a multi-use tool that will not only help users communicate but also be their virtual buddy.
 
 # Main Menu
-## Start Button 
-## Star (plays instructions)
-## 18sprites (Books,bath,car,garden,water,food,toothbrush,meet a friend,armchair,medicine,laptop,meeting,bed,shop,wash hands toilet and pray)
-## Back Button-takes you back to the main page
+1. Start Button 
+2. Star (plays instructions)
+3. 18sprites (Books,bath,car,garden,water,food,toothbrush,meet a friend,armchair,medicine,laptop,meeting,bed,shop,wash hands toilet and pray)
+4. Back Button-takes you back to the main page
 
 Project Code
 
